@@ -1,7 +1,8 @@
 {
-    "name": "AnubisReal AltStore Source",
+    "name": "AnubisReal",
     "identifier": "com.anubisreal.source",
     "sourceURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/apps.json",
+    "website": "https://www.instagram.com/badboybmb/",
     "apps": [
         {
             "name": "aIo",
