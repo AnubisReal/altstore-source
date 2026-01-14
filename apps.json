@@ -9,7 +9,7 @@
     "apps": [
         {
             "name": "aIo",
-            "bundleIdentifier": "com.anubisreal.aio",
+            "bundleIdentifier": "com.anubisreal.aio.aio",
             "developerName": "AnubisReal",
             "subtitle": "Tu aplicación todo en uno",
             "localizedDescription": "Descripción detallada de tu aplicación. Aquí puedes explicar las características principales y funcionalidades que ofrece.",
