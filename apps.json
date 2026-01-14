@@ -1,7 +1,7 @@
 {
     "name": "AnubisReal",
     "subtitle": "Apps y herramientas exclusivas",
-    "localizedDescription": "Bienvenido al source oficial de AnubisReal 🔥\n\nAquí encontrarás aplicaciones cuidadosamente seleccionadas y optimizadas para tu dispositivo iOS. Nos enfocamos en ofrecerte herramientas útiles, funcionales y de calidad.\n\n¿Tienes sugerencias o dudas? Síguenos en Instagram @badboybmb para estar al día con todas las novedades, actualizaciones y lanzamientos exclusivos.\n\n¡Gracias por confiar en nosotros!",
+    "description": "Bienvenido al source oficial de AnubisReal 🔥\n\nAquí encontrarás aplicaciones cuidadosamente seleccionadas y optimizadas para tu dispositivo iOS. Nos enfocamos en ofrecerte herramientas útiles, funcionales y de calidad.\n\n¿Tienes sugerencias o dudas? Síguenos en Instagram @badboybmb para estar al día con todas las novedades, actualizaciones y lanzamientos exclusivos.\n\n¡Gracias por confiar en nosotros!",
     "identifier": "com.anubisreal.source",
     "sourceURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/apps.json",
     "website": "https://www.instagram.com/badboybmb/",
