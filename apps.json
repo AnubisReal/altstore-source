@@ -5,6 +5,7 @@
     "identifier": "com.anubisreal.source",
     "sourceURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/apps.json",
     "website": "https://www.instagram.com/badboybmb/",
+    "iconURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/perfil.jpg",
     "apps": [
         {
             "name": "aIo",
