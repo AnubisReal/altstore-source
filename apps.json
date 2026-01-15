@@ -25,6 +25,14 @@
             ],
             "versions": [
                 {
+                    "version": "1.0.1",
+                    "date": "2026-01-15",
+                    "localizedDescription": "Actualización 1.0.1\n\n• Parches de bugs conocidos\n• Mejoras en la estética",
+                    "downloadURL": "https://github.com/AnubisReal/altstore-source/releases/download/v1.0.1/aIo.ipa",
+                    "size": 12805235,
+                    "minOSVersion": "14.0"
+                },
+                {
                     "version": "1.0.0",
                     "date": "2026-01-14",
                     "localizedDescription": "Primera versión de la aplicación.\n\n• Funcionalidad inicial\n• Interfaz de usuario optimizada\n• Correcciones de errores",
