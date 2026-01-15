@@ -15,7 +15,7 @@
             "localizedDescription": "Descripción detallada de tu aplicación. Aquí puedes explicar las características principales y funcionalidades que ofrece.",
             "iconURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/icons/aio-icon.png",
             "tintColor": "8A2BE2",
-            "screenshotURLs": [
+            "screenshots": [
                 {
                     "imageURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot1.png",
                     "width": 428,
