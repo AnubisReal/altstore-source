@@ -16,12 +16,36 @@
             "iconURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/icons/aio-icon.png",
             "tintColor": "8A2BE2",
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot1.png",
-                "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot2.png",
-                "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot3.png",
-                "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot4.png",
-                "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot5.png",
-                "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot6.jpg"
+                {
+                    "imageURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot1.png",
+                    "width": 428,
+                    "height": 868
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot2.png",
+                    "width": 428,
+                    "height": 868
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot3.png",
+                    "width": 428,
+                    "height": 868
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot4.png",
+                    "width": 428,
+                    "height": 868
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot5.png",
+                    "width": 428,
+                    "height": 868
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/AnubisReal/altstore-source/main/assets/screenshots/screenshot6.jpg",
+                    "width": 428,
+                    "height": 868
+                }
             ],
             "versions": [
                 {
