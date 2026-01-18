@@ -49,6 +49,14 @@
             ],
             "versions": [
                 {
+                    "version": "1.0.3",
+                    "date": "2026-01-18",
+                    "localizedDescription": "Actualización 1.0.3\n\n✨ Novedades:\n• Rediseño de los cajones de sesiones\n• Nuevos controladores de reproducción integrados\n• Interfaz más intuitiva y moderna\n\n🔧 Mejoras:\n• Corrección de errores conocidos\n• Optimización del rendimiento\n• Mejoras en la estabilidad general",
+                    "downloadURL": "https://github.com/AnubisReal/altstore-source/releases/download/v1.0.3/aIo.ipa",
+                    "size": 12805235,
+                    "minOSVersion": "14.0"
+                },
+                {
                     "version": "1.0.2",
                     "date": "2026-01-17",
                     "localizedDescription": "Actualización 1.0.2\n\n• Nuevas mejoras\n• Correcciones de errores",
